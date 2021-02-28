@@ -4,6 +4,10 @@ author: GitHub User audetri
 email: triccaa@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
  my first blog developed on GitHub
+ 
+ header_pages:
+  - about.md
+  - portfolio.md
 
 # social links
 instagram_username : aatriccaa
